@@ -1,3 +1,5 @@
+ ```bash
+
 git init
 git status
 # creamos un archivos nuev y despues
@@ -7,3 +9,4 @@ git commit -m "descripcion del commit"
 
 # revisamos el historial
 git log
+```
