@@ -30,3 +30,14 @@ contrasenas.txt
 *.pdf #con estas instruccion le indico que ignore todos los archivos con extension pdf
 
 ```
+
+# GIT BRANCH
+### para crear una branch tenemos que usar
+git checkout -b "Y el nombre de la ramra"
+
+### para cambiar de rama tenemos qe usar
+git checkout "nombre de la rama"
+
+### para combinar los archivos de las ramas usamos
+
+git merge "nombre de la rama"
