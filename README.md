@@ -20,3 +20,13 @@ markdown es una tecnologia que permite escribir texto con u formato especial y n
 ### README.md
 
 eL ARCHIVO README.md es un archivo de markdown (extension .md) y ese archivos es la portadad e nuestro repositorio en Github.
+
+## git ignore
+Si creamos un archivos llamado `.gitignore` podemos avisarle a git que archivos queremos ignorar.
+Adentro del archivos .gitignore podemos tener algo como esto
+
+```bash
+contrasenas.txt 
+*.pdf #con estas instruccion le indico que ignore todos los archivos con extension pdf
+
+```
