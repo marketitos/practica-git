@@ -41,3 +41,5 @@ git checkout "nombre de la rama"
 ### para combinar los archivos de las ramas usamos
 
 git merge "nombre de la rama"
+
+Practica
